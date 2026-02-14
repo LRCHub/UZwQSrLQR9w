@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "この恋はスクープされない",
+  "base_artist": "コレサワ",
+  "createdAt": "2026-02-14T16:12:35.792325Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "この恋はスクープされない",
+      "artist": "コレサワ",
+      "has_synced": false,
+      "path": "select/pl_01_この恋はスクープされない_コレサワ.txt"
+    }
+  ]
+}
